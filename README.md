@@ -33,12 +33,6 @@ O chatbot utiliza o modelo **LLaMA 3.3 70B** via **Groq API** (gratuita) e respo
 
 ---
 
-## 📱 WhatsApp Bot
-
-A integração com WhatsApp via **Evolution API** (Docker) foi estruturada e documentada, porém não foi ativada por questões de privacidade — o bot requer vinculação a um número de WhatsApp real, e optei por não expor meu número pessoal em um projeto de estudo público.
-
----
-
 ## 👨‍💻 Autor
 
 Desenvolvido por **Kauã** como projeto de estudo de desenvolvimento full-stack com IA integrada.
